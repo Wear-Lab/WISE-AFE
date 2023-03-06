@@ -302,55 +302,6 @@ LETTER landscape</description>
 <pad name="2" x="8.89" y="1.27" drill="1" diameter="1.778"/>
 <pad name="1" x="6.35" y="1.27" drill="1" diameter="1.778"/>
 </package>
-<package name="SFV4R-1STE1LF" urn="urn:adsk.eagle:footprint:6240157/1" library_version="2">
-<description>&lt;b&gt;FPC Connector ZIF for SMT 0.5mm&lt;/b&gt;&lt;p&gt;
-
-FCI SFV4R-1STE1LF</description>
-<wire x1="-2.55" y1="0.6" x2="-1.25" y2="0.6" width="0.2032" layer="21"/>
-<wire x1="-1.25" y1="0.6" x2="1.25" y2="0.6" width="0.2032" layer="51"/>
-<wire x1="1.25" y1="0.6" x2="2.55" y2="0.6" width="0.2032" layer="21"/>
-<wire x1="2.55" y1="0.6" x2="2.55" y2="-2.6" width="0.2032" layer="51"/>
-<wire x1="2.55" y1="-2.6" x2="1.85" y2="-2.6" width="0.2032" layer="21"/>
-<wire x1="1.85" y1="-2.6" x2="1.85" y2="-3.6" width="0.2032" layer="21"/>
-<wire x1="1.85" y1="-3.6" x2="3.45" y2="-3.6" width="0.2032" layer="21"/>
-<wire x1="3.45" y1="-3.6" x2="3.45" y2="-3.8" width="0.2032" layer="21"/>
-<wire x1="3.45" y1="-3.8" x2="3.05" y2="-4.2" width="0.2032" layer="21" curve="-90"/>
-<wire x1="3.05" y1="-4.2" x2="-3.05" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="-3.05" y1="-4.2" x2="-3.45" y2="-3.8" width="0.2032" layer="21" curve="-90"/>
-<wire x1="-3.45" y1="-3.8" x2="-3.45" y2="-3.6" width="0.2032" layer="21"/>
-<wire x1="-3.45" y1="-3.6" x2="-1.85" y2="-3.6" width="0.2032" layer="21"/>
-<wire x1="-1.85" y1="-3.6" x2="-1.85" y2="-2.6" width="0.2032" layer="21"/>
-<wire x1="-1.85" y1="-2.6" x2="-2.55" y2="-2.6" width="0.2032" layer="21"/>
-<wire x1="-2.55" y1="-2.6" x2="-2.55" y2="0.6" width="0.2032" layer="51"/>
-<wire x1="-3.5" y1="-0.15" x2="-2.7" y2="-0.15" width="0.5" layer="51"/>
-<wire x1="-2.7" y1="-0.15" x2="-2.7" y2="-1" width="0.5" layer="51"/>
-<wire x1="-2.7" y1="-1" x2="-3.5" y2="-1" width="0.5" layer="51"/>
-<wire x1="3.5" y1="-1" x2="2.7" y2="-1" width="0.5" layer="51"/>
-<wire x1="2.7" y1="-1" x2="2.7" y2="-0.15" width="0.5" layer="51"/>
-<wire x1="2.7" y1="-0.15" x2="3.5" y2="-0.15" width="0.5" layer="51"/>
-<smd name="1" x="-0.75" y="0.6" dx="0.25" dy="1.4" layer="1" stop="no"/>
-<smd name="2" x="-0.25" y="0.6" dx="0.25" dy="1.4" layer="1" stop="no"/>
-<smd name="3" x="0.25" y="0.6" dx="0.25" dy="1.4" layer="1" stop="no"/>
-<smd name="4" x="0.75" y="0.6" dx="0.25" dy="1.4" layer="1" stop="no"/>
-<text x="-1.715" y="1.27" size="1.27" layer="25">&gt;NAME</text>
-<text x="-2.985" y="-6.02" size="1.27" layer="27">&gt;VALUE</text>
-<rectangle x1="-3.9" y1="-1.4" x2="-1.5" y2="0.2" layer="1"/>
-<rectangle x1="-2.8" y1="-2.15" x2="-1.5" y2="-1.3" layer="1"/>
-<rectangle x1="1.5" y1="-1.4" x2="3.9" y2="0.2" layer="1"/>
-<rectangle x1="1.5" y1="-2.05" x2="2.8" y2="-1.2" layer="1"/>
-<rectangle x1="-2.8" y1="-2.15" x2="-1.5" y2="-1.3" layer="29"/>
-<rectangle x1="-4.275" y1="-1.9" x2="-2.1" y2="0.075" layer="31"/>
-<rectangle x1="-3.2" y1="-2.75" x2="-2.1" y2="-1.9" layer="31"/>
-<rectangle x1="2.1" y1="-1.9" x2="4.275" y2="0.075" layer="31"/>
-<rectangle x1="2.1" y1="-2.75" x2="3.2" y2="-1.9" layer="31"/>
-<rectangle x1="-0.9" y1="-0.1" x2="-0.6" y2="1.3" layer="29"/>
-<rectangle x1="-0.4" y1="-0.1" x2="-0.1" y2="1.3" layer="29"/>
-<rectangle x1="0.1" y1="-0.1" x2="0.4" y2="1.3" layer="29"/>
-<rectangle x1="0.6" y1="-0.1" x2="0.9" y2="1.3" layer="29"/>
-<rectangle x1="-3.9" y1="-1.4" x2="-1.5" y2="0.2" layer="29"/>
-<rectangle x1="1.5" y1="-1.4" x2="3.9" y2="0.2" layer="29"/>
-<rectangle x1="1.5" y1="-2.1" x2="2.8" y2="-1.4" layer="29"/>
-</package>
 <package name="C0603" urn="urn:adsk.eagle:footprint:6239685/1" library_version="2">
 <description>&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
 chip</description>
@@ -3336,14 +3287,6 @@ type 0309, grid 2.5 mm</description>
 <packageinstance name="FEATHERWING_DIM"/>
 </packageinstances>
 </package3d>
-<package3d name="SFV4R-1STE1LF" urn="urn:adsk.eagle:package:6240802/1" type="box" library_version="2">
-<description>&lt;b&gt;FPC Connector ZIF for SMT 0.5mm&lt;/b&gt;&lt;p&gt;
-
-FCI SFV4R-1STE1LF</description>
-<packageinstances>
-<packageinstance name="SFV4R-1STE1LF"/>
-</packageinstances>
-</package3d>
 <package3d name="C0603" urn="urn:adsk.eagle:package:6240338/1" type="box" library_version="2">
 <description>&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
 chip</description>
@@ -4413,17 +4356,6 @@ type 0309, grid 2.5 mm</description>
 <circle x="2.54" y="2.54" radius="1.27" width="0.254" layer="94"/>
 <circle x="2.54" y="30.48" radius="1.27" width="0.254" layer="94"/>
 </symbol>
-<symbol name="MV" urn="urn:adsk.eagle:symbol:6239584/1" library_version="2">
-<wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
-<text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
-<text x="-0.762" y="1.397" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
-</symbol>
-<symbol name="M" urn="urn:adsk.eagle:symbol:6239585/1" library_version="2">
-<wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
-<text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
-<pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
-</symbol>
 <symbol name="C-US" urn="urn:adsk.eagle:symbol:6239482/1" library_version="2">
 <wire x1="-2.54" y1="0" x2="2.54" y2="0" width="0.254" layer="94"/>
 <wire x1="0" y1="-1.016" x2="0" y2="-2.54" width="0.1524" layer="94"/>
@@ -4527,35 +4459,6 @@ type 0309, grid 2.5 mm</description>
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:6240960/1"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="SFV4R-1STE1LF" urn="urn:adsk.eagle:component:6241076/1" prefix="X" library_version="2">
-<description>&lt;b&gt;FPC Connector ZIF for SMT 0.5mm&lt;/b&gt;&lt;p&gt;
-
-SFV4R-1STE1LF
-
-Useful as the LED backlight connector for a PSP display</description>
-<gates>
-<gate name="-1" symbol="MV" x="0" y="2.54" addlevel="always" swaplevel="1"/>
-<gate name="-2" symbol="M" x="0" y="0" addlevel="always" swaplevel="1"/>
-<gate name="-3" symbol="M" x="0" y="-2.54" addlevel="always" swaplevel="1"/>
-<gate name="-4" symbol="M" x="0" y="-5.08" addlevel="always" swaplevel="1"/>
-</gates>
-<devices>
-<device name="" package="SFV4R-1STE1LF">
-<connects>
-<connect gate="-1" pin="S" pad="1"/>
-<connect gate="-2" pin="S" pad="2"/>
-<connect gate="-3" pin="S" pad="3"/>
-<connect gate="-4" pin="S" pad="4"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:6240802/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6595,6 +6498,152 @@ Useful as the LED backlight connector for a PSP display</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="con-molex" urn="urn:adsk.eagle:library:165">
+<description>&lt;b&gt;Molex Connectors&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="52745-0690" urn="urn:adsk.eagle:footprint:8078234/1" library_version="5">
+<description>&lt;b&gt;0.50mm Pitch Easy-On™ Type FFC/FPC Connector, Right Angle, Surface Mount, ZIF, Top Contact Style, 6 Circuits, High Barrier Packaging&lt;/b&gt;&lt;p&gt;&lt;a href =http://www.molex.com/pdm_docs/sd/527450633_sd.pdf&gt;Datasheet &lt;/a&gt;</description>
+<wire x1="-4.45" y1="-3" x2="-4.45" y2="-3.5" width="0.2032" layer="21"/>
+<wire x1="-4.45" y1="-3.5" x2="-4.35" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="-4.35" y1="-3.6" x2="4.35" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="4.35" y1="-3.6" x2="4.45" y2="-3.5" width="0.2032" layer="21"/>
+<wire x1="4.45" y1="-3.5" x2="4.45" y2="-3" width="0.2032" layer="21"/>
+<wire x1="4.45" y1="-3" x2="-4.45" y2="-3" width="0.2032" layer="21"/>
+<wire x1="-3.55" y1="1.9" x2="3.55" y2="1.9" width="0.2032" layer="51"/>
+<wire x1="3.55" y1="1.9" x2="3.55" y2="-1.4" width="0.2032" layer="51"/>
+<wire x1="3.55" y1="-1.4" x2="-3.55" y2="-1.4" width="0.2032" layer="21"/>
+<wire x1="-3.55" y1="-1.4" x2="-3.55" y2="1.9" width="0.2032" layer="51"/>
+<wire x1="-3" y1="-1.5" x2="-3" y2="-2.9" width="0.2032" layer="21"/>
+<wire x1="3" y1="-1.5" x2="3" y2="-2.9" width="0.2032" layer="21"/>
+<wire x1="-1.55" y1="-3.1" x2="-1.55" y2="-3.5" width="0.1016" layer="21"/>
+<wire x1="-1.55" y1="-3.5" x2="-1.3" y2="-3.25" width="0.1016" layer="21"/>
+<wire x1="-1.3" y1="-3.25" x2="-1.3" y2="-3.1" width="0.1016" layer="21"/>
+<wire x1="1.3" y1="-3.1" x2="1.3" y2="-3.25" width="0.1016" layer="21"/>
+<wire x1="1.3" y1="-3.25" x2="1.55" y2="-3.5" width="0.1016" layer="21"/>
+<wire x1="1.55" y1="-3.5" x2="1.55" y2="-3.1" width="0.1016" layer="21"/>
+<wire x1="3.7" y1="1.95" x2="3.85" y2="1.95" width="0.1016" layer="51"/>
+<wire x1="3.85" y1="1.95" x2="3.85" y2="1.65" width="0.1016" layer="51"/>
+<wire x1="3.85" y1="1.65" x2="4.45" y2="1.65" width="0.1016" layer="51"/>
+<wire x1="4.45" y1="1.65" x2="4.45" y2="1.45" width="0.1016" layer="51"/>
+<wire x1="4.45" y1="1.45" x2="3.85" y2="1.45" width="0.1016" layer="51"/>
+<wire x1="3.85" y1="1.45" x2="3.85" y2="0.95" width="0.1016" layer="51"/>
+<wire x1="3.85" y1="0.95" x2="3.9" y2="0.9" width="0.1016" layer="51"/>
+<wire x1="3.9" y1="0.9" x2="4.45" y2="0.9" width="0.1016" layer="51"/>
+<wire x1="4.45" y1="0.9" x2="4.45" y2="0.7" width="0.1016" layer="51"/>
+<wire x1="4.45" y1="0.7" x2="3.7" y2="0.7" width="0.1016" layer="51"/>
+<wire x1="3.7" y1="0.7" x2="3.7" y2="1.9" width="0.1016" layer="51"/>
+<wire x1="-3.7" y1="1.95" x2="-3.85" y2="1.95" width="0.1016" layer="51"/>
+<wire x1="-3.85" y1="1.95" x2="-3.85" y2="1.65" width="0.1016" layer="51"/>
+<wire x1="-3.85" y1="1.65" x2="-4.45" y2="1.65" width="0.1016" layer="51"/>
+<wire x1="-4.45" y1="1.65" x2="-4.45" y2="1.45" width="0.1016" layer="51"/>
+<wire x1="-4.45" y1="1.45" x2="-3.85" y2="1.45" width="0.1016" layer="51"/>
+<wire x1="-3.85" y1="1.45" x2="-3.85" y2="0.95" width="0.1016" layer="51"/>
+<wire x1="-3.85" y1="0.95" x2="-3.9" y2="0.9" width="0.1016" layer="51"/>
+<wire x1="-3.9" y1="0.9" x2="-4.45" y2="0.9" width="0.1016" layer="51"/>
+<wire x1="-4.45" y1="0.9" x2="-4.45" y2="0.7" width="0.1016" layer="51"/>
+<wire x1="-4.45" y1="0.7" x2="-3.7" y2="0.7" width="0.1016" layer="51"/>
+<wire x1="-3.7" y1="0.7" x2="-3.7" y2="1.9" width="0.1016" layer="51"/>
+<wire x1="-2.15" y1="-1.25" x2="-2.15" y2="1" width="0.2032" layer="21"/>
+<wire x1="-2.15" y1="1" x2="-2" y2="1" width="0.2032" layer="21" curve="-180"/>
+<wire x1="-2" y1="1" x2="-2" y2="-1.25" width="0.2032" layer="21"/>
+<wire x1="2" y1="-1.25" x2="2" y2="1" width="0.2032" layer="21"/>
+<wire x1="2" y1="1" x2="2.15" y2="1" width="0.2032" layer="21" curve="-180"/>
+<wire x1="2.15" y1="1" x2="2.15" y2="-1.25" width="0.2032" layer="21"/>
+<smd name="1" x="-1.25" y="2.5" dx="0.3" dy="0.8" layer="1"/>
+<smd name="2" x="-0.75" y="2.5" dx="0.3" dy="0.8" layer="1"/>
+<smd name="3" x="-0.25" y="2.5" dx="0.3" dy="0.8" layer="1"/>
+<smd name="4" x="0.25" y="2.5" dx="0.3" dy="0.8" layer="1"/>
+<smd name="5" x="0.75" y="2.5" dx="0.3" dy="0.8" layer="1"/>
+<smd name="6" x="1.25" y="2.5" dx="0.3" dy="0.8" layer="1"/>
+<text x="-4.58" y="3.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-4.58" y="-5.62" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="3.75" y1="-0.2" x2="4.9" y2="2" layer="29" rot="R180"/>
+<rectangle x1="2.5" y1="-1.05" x2="3.8" y2="2" layer="29" rot="R180"/>
+<rectangle x1="2.7" y1="-0.05" x2="4.7" y2="1.85" layer="31" rot="R180"/>
+<rectangle x1="-4.9" y1="-0.2" x2="-3.75" y2="2" layer="29"/>
+<rectangle x1="-3.8" y1="-1.05" x2="-2.5" y2="2" layer="29"/>
+<rectangle x1="-4.7" y1="-0.05" x2="-2.7" y2="1.85" layer="31"/>
+<rectangle x1="-1.35" y1="2" x2="-1.15" y2="2.7" layer="51"/>
+<rectangle x1="-0.85" y1="2" x2="-0.65" y2="2.7" layer="51"/>
+<rectangle x1="-0.35" y1="2" x2="-0.15" y2="2.7" layer="51"/>
+<rectangle x1="0.15" y1="2" x2="0.35" y2="2.7" layer="51"/>
+<rectangle x1="0.65" y1="2" x2="0.85" y2="2.7" layer="51"/>
+<rectangle x1="1.15" y1="2" x2="1.35" y2="2.7" layer="51"/>
+<rectangle x1="-4.9" y1="-0.2" x2="-2.5" y2="2" layer="1"/>
+<rectangle x1="-3.8" y1="-1.05" x2="-2.5" y2="-0.2" layer="1"/>
+<rectangle x1="2.5" y1="-1.05" x2="3.8" y2="-0.2" layer="1"/>
+<rectangle x1="2.5" y1="-0.2" x2="4.9" y2="2" layer="1"/>
+<polygon width="0.1016" layer="21">
+<vertex x="-1.75" y="-1.25"/>
+<vertex x="-1.75" y="-1.2"/>
+<vertex x="-1.5" y="-0.85"/>
+<vertex x="-1.25" y="-1.2"/>
+<vertex x="-1.25" y="-1.25"/>
+</polygon>
+</package>
+</packages>
+<packages3d>
+<package3d name="52745-0690" urn="urn:adsk.eagle:package:8078608/1" type="box" library_version="5">
+<description>&lt;b&gt;0.50mm Pitch Easy-On™ Type FFC/FPC Connector, Right Angle, Surface Mount, ZIF, Top Contact Style, 6 Circuits, High Barrier Packaging&lt;/b&gt;&lt;p&gt;&lt;a href =http://www.molex.com/pdm_docs/sd/527450633_sd.pdf&gt;Datasheet &lt;/a&gt;</description>
+<packageinstances>
+<packageinstance name="52745-0690"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="MV" urn="urn:adsk.eagle:symbol:6783/2" library_version="5">
+<wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
+<text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
+<text x="-0.762" y="1.397" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
+</symbol>
+<symbol name="M" urn="urn:adsk.eagle:symbol:6785/2" library_version="5">
+<wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
+<text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
+<pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="52745-0690" urn="urn:adsk.eagle:component:8079058/3" prefix="X" library_version="5">
+<description>&lt;b&gt;FFC/FPC&lt;/b&gt;-to-Board  0.50mm (.020") SMT Top Contact&lt;p&gt;
+Right Angle, ZIF, Style Receptacle 52745 / 52435&lt;br&gt;
+Source: http://www.molex.com/product/ffc/52745.html</description>
+<gates>
+<gate name="-1" symbol="MV" x="0" y="5.08" addlevel="always"/>
+<gate name="-2" symbol="M" x="0" y="2.54" addlevel="always"/>
+<gate name="-3" symbol="M" x="0" y="0" addlevel="always"/>
+<gate name="-4" symbol="M" x="0" y="-2.54" addlevel="always"/>
+<gate name="-5" symbol="M" x="0" y="-5.08" addlevel="always"/>
+<gate name="-6" symbol="M" x="0" y="-7.62" addlevel="always"/>
+</gates>
+<devices>
+<device name="" package="52745-0690">
+<connects>
+<connect gate="-1" pin="S" pad="1"/>
+<connect gate="-2" pin="S" pad="2"/>
+<connect gate="-3" pin="S" pad="3"/>
+<connect gate="-4" pin="S" pad="4"/>
+<connect gate="-5" pin="S" pad="5"/>
+<connect gate="-6" pin="S" pad="6"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:8078608/1"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="MF" value="MOLEX" constant="no"/>
+<attribute name="MPN" value="52745-0690" constant="no"/>
+<attribute name="OC_FARNELL" value="unknown" constant="no"/>
+<attribute name="OC_NEWARK" value="92M6374" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -6640,13 +6689,14 @@ Useful as the LED backlight connector for a PSP display</description>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C8" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:6240340/1" value="0.1uF"/>
 <part name="C9" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:6240340/1" value="0.1uF"/>
-<part name="X1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="SFV4R-1STE1LF" device="" package3d_urn="urn:adsk.eagle:package:6240802/1"/>
 <part name="R4" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:6240564/1" value="10k"/>
 <part name="P+7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC/2" device=""/>
+<part name="X1" library="con-molex" library_urn="urn:adsk.eagle:library:165" deviceset="52745-0690" device="" package3d_urn="urn:adsk.eagle:package:8078608/1"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
+<text x="238.76" y="7.62" size="2.54" layer="94">C</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
@@ -6771,25 +6821,31 @@ Useful as the LED backlight connector for a PSP display</description>
 <attribute name="NAME" x="188.976" y="66.675" size="1.778" layer="95"/>
 <attribute name="VALUE" x="188.976" y="61.849" size="1.778" layer="96"/>
 </instance>
-<instance part="X1" gate="-1" x="81.28" y="33.02" smashed="yes">
-<attribute name="NAME" x="83.82" y="32.258" size="1.524" layer="95"/>
-<attribute name="VALUE" x="80.518" y="34.417" size="1.778" layer="96"/>
-</instance>
-<instance part="X1" gate="-2" x="81.28" y="30.48" smashed="yes">
-<attribute name="NAME" x="83.82" y="29.718" size="1.524" layer="95"/>
-</instance>
-<instance part="X1" gate="-3" x="81.28" y="27.94" smashed="yes">
-<attribute name="NAME" x="83.82" y="27.178" size="1.524" layer="95"/>
-</instance>
-<instance part="X1" gate="-4" x="81.28" y="25.4" smashed="yes">
-<attribute name="NAME" x="83.82" y="24.638" size="1.524" layer="95"/>
-</instance>
 <instance part="R4" gate="G$1" x="119.38" y="25.4" smashed="yes">
 <attribute name="NAME" x="115.57" y="26.8986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="22.098" size="1.778" layer="96"/>
 </instance>
 <instance part="P+7" gate="G$1" x="127" y="30.48" smashed="yes">
 <attribute name="VALUE" x="124.46" y="27.94" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="X1" gate="-1" x="91.44" y="38.1" smashed="yes">
+<attribute name="NAME" x="93.98" y="37.338" size="1.524" layer="95"/>
+<attribute name="VALUE" x="90.678" y="39.497" size="1.778" layer="96"/>
+</instance>
+<instance part="X1" gate="-2" x="91.44" y="35.56" smashed="yes">
+<attribute name="NAME" x="93.98" y="34.798" size="1.524" layer="95"/>
+</instance>
+<instance part="X1" gate="-3" x="91.44" y="33.02" smashed="yes">
+<attribute name="NAME" x="93.98" y="32.258" size="1.524" layer="95"/>
+</instance>
+<instance part="X1" gate="-4" x="91.44" y="30.48" smashed="yes">
+<attribute name="NAME" x="93.98" y="29.718" size="1.524" layer="95"/>
+</instance>
+<instance part="X1" gate="-5" x="91.44" y="27.94" smashed="yes">
+<attribute name="NAME" x="93.98" y="27.178" size="1.524" layer="95"/>
+</instance>
+<instance part="X1" gate="-6" x="91.44" y="25.4" smashed="yes">
+<attribute name="NAME" x="93.98" y="24.638" size="1.524" layer="95"/>
 </instance>
 </instances>
 <busses>
@@ -6848,7 +6904,19 @@ Useful as the LED backlight connector for a PSP display</description>
 <pinref part="MS1" gate="G$1" pin="GND"/>
 <wire x1="58.42" y1="144.78" x2="55.88" y2="144.78" width="0.1524" layer="91"/>
 <pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="55.88" y1="144.78" x2="55.88" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="144.78" x2="55.88" y2="139.7" width="0.1524" layer="91"/>
+<pinref part="MS1" gate="G$1" pin="GPIOA1"/>
+<wire x1="55.88" y1="139.7" x2="55.88" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="134.62" x2="55.88" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="129.54" x2="55.88" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="139.7" x2="55.88" y2="139.7" width="0.1524" layer="91"/>
+<junction x="55.88" y="139.7"/>
+<pinref part="MS1" gate="G$1" pin="GPIOA3"/>
+<wire x1="58.42" y1="134.62" x2="55.88" y2="134.62" width="0.1524" layer="91"/>
+<junction x="55.88" y="134.62"/>
+<pinref part="MS1" gate="G$1" pin="GPIOA5"/>
+<wire x1="58.42" y1="129.54" x2="55.88" y2="129.54" width="0.1524" layer="91"/>
+<junction x="55.88" y="129.54"/>
 </segment>
 <segment>
 <pinref part="GND2" gate="1" pin="GND"/>
@@ -6927,13 +6995,6 @@ Useful as the LED backlight connector for a PSP display</description>
 <label x="175.26" y="149.86" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="A1" class="0">
-<segment>
-<pinref part="MS1" gate="G$1" pin="GPIOA1"/>
-<wire x1="53.34" y1="139.7" x2="58.42" y2="139.7" width="0.1524" layer="91"/>
-<label x="53.34" y="139.7" size="1.27" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
 <net name="A2" class="0">
 <segment>
 <pinref part="MS1" gate="G$1" pin="GPIOA2"/>
@@ -6946,13 +7007,6 @@ Useful as the LED backlight connector for a PSP display</description>
 <label x="175.26" y="111.76" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="A3" class="0">
-<segment>
-<pinref part="MS1" gate="G$1" pin="GPIOA3"/>
-<wire x1="53.34" y1="134.62" x2="58.42" y2="134.62" width="0.1524" layer="91"/>
-<label x="53.34" y="134.62" size="1.27" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
 <net name="A4" class="0">
 <segment>
 <pinref part="MS1" gate="G$1" pin="GPIOA4"/>
@@ -6963,13 +7017,6 @@ Useful as the LED backlight connector for a PSP display</description>
 <pinref part="U4" gate="G$1" pin="VOUT"/>
 <wire x1="175.26" y1="73.66" x2="172.72" y2="73.66" width="0.1524" layer="91"/>
 <label x="175.26" y="73.66" size="1.016" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="A5" class="0">
-<segment>
-<pinref part="MS1" gate="G$1" pin="GPIOA5"/>
-<wire x1="53.34" y1="129.54" x2="58.42" y2="129.54" width="0.1524" layer="91"/>
-<label x="53.34" y="129.54" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="VCC" class="0">
@@ -7067,14 +7114,24 @@ Useful as the LED backlight connector for a PSP display</description>
 <label x="139.7" y="78.74" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="X1" gate="-4" pin="S"/>
-<wire x1="76.2" y1="25.4" x2="78.74" y2="25.4" width="0.1524" layer="91"/>
-<label x="76.2" y="25.4" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
 <pinref part="R4" gate="G$1" pin="1"/>
 <wire x1="111.76" y1="25.4" x2="114.3" y2="25.4" width="0.1524" layer="91"/>
 <label x="111.76" y="25.4" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="X1" gate="-5" pin="S"/>
+<wire x1="86.36" y1="27.94" x2="88.9" y2="27.94" width="0.1524" layer="91"/>
+<label x="86.36" y="27.94" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="X1" gate="-3" pin="S"/>
+<wire x1="86.36" y1="33.02" x2="88.9" y2="33.02" width="0.1524" layer="91"/>
+<label x="86.36" y="33.02" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="X1" gate="-1" pin="S"/>
+<wire x1="86.36" y1="38.1" x2="88.9" y2="38.1" width="0.1524" layer="91"/>
+<label x="86.36" y="38.1" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -7118,33 +7175,33 @@ Useful as the LED backlight connector for a PSP display</description>
 <label x="139.7" y="142.24" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="X1" gate="-3" pin="S"/>
-<wire x1="76.2" y1="27.94" x2="78.74" y2="27.94" width="0.1524" layer="91"/>
-<label x="76.2" y="27.94" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="X1" gate="-6" pin="S"/>
+<wire x1="86.36" y1="25.4" x2="88.9" y2="25.4" width="0.1524" layer="91"/>
+<label x="86.36" y="25.4" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="CH1" class="0">
+<net name="CH2" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="+IN"/>
 <wire x1="139.7" y1="104.14" x2="142.24" y2="104.14" width="0.1524" layer="91"/>
 <label x="139.7" y="104.14" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="X1" gate="-2" pin="S"/>
-<wire x1="76.2" y1="30.48" x2="78.74" y2="30.48" width="0.1524" layer="91"/>
-<label x="76.2" y="30.48" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="X1" gate="-4" pin="S"/>
+<wire x1="86.36" y1="30.48" x2="88.9" y2="30.48" width="0.1524" layer="91"/>
+<label x="86.36" y="30.48" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="CH2" class="0">
+<net name="CH4" class="0">
 <segment>
 <pinref part="U4" gate="G$1" pin="+IN"/>
 <wire x1="139.7" y1="66.04" x2="142.24" y2="66.04" width="0.1524" layer="91"/>
 <label x="139.7" y="66.04" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="X1" gate="-1" pin="S"/>
-<wire x1="76.2" y1="33.02" x2="78.74" y2="33.02" width="0.1524" layer="91"/>
-<label x="76.2" y="33.02" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="X1" gate="-2" pin="S"/>
+<wire x1="86.36" y1="35.56" x2="88.9" y2="35.56" width="0.1524" layer="91"/>
+<label x="86.36" y="35.56" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 </nets>
